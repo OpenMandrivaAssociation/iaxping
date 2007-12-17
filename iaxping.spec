@@ -6,7 +6,6 @@ License:	BSD
 Group:		Monitoring
 URL:		http://www.loudhush.ro/tools/
 Source0:	http://www.loudhush.ro/opencms/opencms/loudhush/tools/iaxping.c.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Tool to ping an IAX target (checks network connectivity). hacked from the perl
