@@ -37,3 +37,37 @@ install -m0755 %{name} %{buildroot}%{_bindir}/%{name}
 %{_bindir}/%{name}
 
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0-6mdv2011.0
++ Revision: 619519
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 0-5mdv2010.0
++ Revision: 429486
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 0-4mdv2009.0
++ Revision: 247141
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 0-2mdv2008.1
++ Revision: 140755
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Thu Mar 29 2007 Olivier Blin <oblin@mandriva.com> 0-2mdv2007.1
++ Revision: 149953
+- rebuild because of binary package loss
+
+* Wed Mar 21 2007 Oden Eriksson <oeriksson@mandriva.com> 0-1mdv2007.1
++ Revision: 147620
+- Import iaxping
+
+* Thu Jun 15 2006 Oden Eriksson <oeriksson@mandriva.com> 0-1mdv2007.0
+- initial Mandriva package
+
