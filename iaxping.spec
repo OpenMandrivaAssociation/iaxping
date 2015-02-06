@@ -1,7 +1,7 @@
 Summary:	IAX ping tool
 Name:		iaxping
 Version:	0
-Release:	%mkrel 6
+Release:	7
 License:	BSD
 Group:		Monitoring
 URL:		http://www.loudhush.ro/tools/
