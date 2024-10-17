@@ -4,7 +4,7 @@ Version:	0
 Release:	7
 License:	BSD
 Group:		Monitoring
-URL:		http://www.loudhush.ro/tools/
+URL:		https://www.loudhush.ro/tools/
 Source0:	http://www.loudhush.ro/opencms/opencms/loudhush/tools/iaxping.c.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
